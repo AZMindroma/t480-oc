@@ -111,7 +111,7 @@ python macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
 # Monterey (12)
 python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 
-# Ventura (13)
+# Sonoma (14)
 python macrecovery.py -b Mac-7BA5B2D9E42DDD94 download
 ```
 - After the download succeeded, type ```diskpart``` and wait until you see ```DISKPART>```
