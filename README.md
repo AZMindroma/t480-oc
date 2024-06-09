@@ -112,10 +112,10 @@ python macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
 python macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 
 # Ventura (13)
-python3 macrecovery.py -b Mac-4B682C642B45593E -m 00000000000000000 download
+python macrecovery.py -b Mac-4B682C642B45593E -m 00000000000000000 download
 
 # Newest version (Currently Sonoma (14))
-python3 macrecovery.py -b Mac-937A206F2EE63C01 -m 00000000000000000 download
+python macrecovery.py -b Mac-937A206F2EE63C01 -m 00000000000000000 download
 ```
 - After the download succeeded, type ```diskpart``` and wait until you see ```DISKPART>```
 
