@@ -1,3 +1,7 @@
+# Edits in this fork:
+1. Added an updated version of AirportItlwm to support WiFi on Sonoma
+2. Updated the README to include proper scripts to get the appropiate macOS version's recovery
+
 # Lenovo ThinkPad T480 - OpenCore Configuation
 
 <img align="right" src="https://dl.exploitox.de/t480-oc/Hackintosh-T480-Sonoma.png" alt="macOS Sonoma running on the T480" width="425">
