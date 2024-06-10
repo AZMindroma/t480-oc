@@ -69,10 +69,10 @@ These are the Hardware component I use. But this OpenCore configuation <strong>s
 | --------- | ------------------------------------ |
 | CPU       | Intel Core i5-8350U                  |
 | GPU       | Intel UHD Graphics 620               |
-| SSD       | Intel SSDPEKKF256G8L M.2 NVMe SSD    |
-| Memory    | 16GB DDR4 2400Mhz                     |
+| SSD       | Crucial P3 Plus PCIe M.2 2280 SSD    |
+| Memory    | 16GB DDR4 2400Mhz                    |
 | Camera    | 720p Camera                          |
-| WiFi & BT | Dell DW1830 (BCM43602)               |
+| WiFi & BT | Intel Wireless 8625 / 8275           |
 
 </details>  
 
