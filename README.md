@@ -1,6 +1,7 @@
 # Edits in this fork:
 1. Added an updated version of AirportItlwm to support WiFi on Sonoma
 2. Updated the README to include proper scripts to get the appropiate macOS version's recovery
+3. Added my own hardware info
 
 # Lenovo ThinkPad T480 - OpenCore Configuation
 
